@@ -1,0 +1,5 @@
+int unNum = 10;
+while(unNum > 0){
+ System.out.println(unNum);
+ unNum = unNum -1;
+ }
